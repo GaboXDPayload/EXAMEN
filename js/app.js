@@ -1,5 +1,5 @@
 var url = window.location.href;
-var swLocation = '/EXAMEN/sw.js';
+var swLocation ='https://gaboxdpayload.github.io/EXAMEN/sw.js';
 
 
 if (navigator.serviceWorker) {
